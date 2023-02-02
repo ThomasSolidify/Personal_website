@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ThomasSolidify/Personal_website/static/css/main.1521681d.css",
+    "main.js": "/ThomasSolidify/Personal_website/static/js/main.caa3e906.js",
+    "static/js/787.fb771931.chunk.js": "/ThomasSolidify/Personal_website/static/js/787.fb771931.chunk.js",
+    "static/media/animation_300_ldmykb50.gif": "/ThomasSolidify/Personal_website/static/media/animation_300_ldmykb50.11907917ddd56109d778.gif",
+    "static/media/project-img2.png": "/ThomasSolidify/Personal_website/static/media/project-img2.67804aa443d131e93f1d.png",
+    "static/media/output-onlinegiftools.gif": "/ThomasSolidify/Personal_website/static/media/output-onlinegiftools.733e3a79a778a457b987.gif",
+    "static/media/color-sharp.png": "/ThomasSolidify/Personal_website/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/ThomasSolidify/Personal_website/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/project-img1.png": "/ThomasSolidify/Personal_website/static/media/project-img1.03c9405dd96defc5ca37.png",
+    "static/media/TopImage.gif": "/ThomasSolidify/Personal_website/static/media/TopImage.9526d2db89613f9da952.gif",
+    "static/media/banner-bg.png": "/ThomasSolidify/Personal_website/static/media/banner-bg.5078673bbf0948e7db07.png",
+    "static/media/project-img3.png": "/ThomasSolidify/Personal_website/static/media/project-img3.3162ee89ff489df0978d.png",
+    "static/media/CentraNo2-Bold.ttf": "/ThomasSolidify/Personal_website/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/ThomasSolidify/Personal_website/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/ThomasSolidify/Personal_website/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/ThomasSolidify/Personal_website/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/ThomasSolidify/Personal_website/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/ThomasSolidify/Personal_website/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/ThomasSolidify/Personal_website/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/ThomasSolidify/Personal_website/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/ThomasSolidify/Personal_website/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon2.svg": "/ThomasSolidify/Personal_website/static/media/nav-icon2.f2a7c1addc808546444751cc131df947.svg",
+    "index.html": "/ThomasSolidify/Personal_website/index.html",
+    "static/media/nav-icon1.svg": "/ThomasSolidify/Personal_website/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.1521681d.css.map": "/ThomasSolidify/Personal_website/static/css/main.1521681d.css.map",
+    "main.caa3e906.js.map": "/ThomasSolidify/Personal_website/static/js/main.caa3e906.js.map",
+    "787.fb771931.chunk.js.map": "/ThomasSolidify/Personal_website/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1521681d.css",
+    "static/js/main.caa3e906.js"
+  ]
+}
