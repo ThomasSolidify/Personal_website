@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { ArrowRightCircle } from "react-bootstrap-icons";
-import headerImg from "../assets/img/header-img.svg";
+import headerImg from "../assets/img/animation_300_ldmykb50.gif";
 import 'animate.css';
 import TrackVisibility from "react-on-screen";
 
@@ -9,7 +9,7 @@ export const Banner = () => {
     const [loopNum, setLoopNum] = useState(0);
     const [isDeleting, setIsDeleting] = useState(false);
     const [text, setText] = useState('');
-    const [delta, setDelta] = useState(300 - Math.random() * 100);
+    const [delta, setDelta] = useState(300 - Math.random() * 10);
     const toRotate = ["Web Developer", "Web Designer", "UI/UX Designer"];
     const period = 2000;
 
@@ -51,9 +51,9 @@ export const Banner = () => {
                             {({ isVisible }) =>
                                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                                     <span className="tagline">Welcome to my Portfolio</span>
-                                    <h1>{`Hi I'm James! `}<span className="wrap">{text}</span></h1>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis similique ut nemo doloremque, ea maiores minima, deserunt, nulla nihil impedit omnis. Necessitatibus nisi ratione dicta, ipsum explicabo natus et quas.</p>
-                                    <button onClick={() => console.log('connect')}>Let's connect <ArrowRightCircle size={25} /></button>
+                                    <h1>{`Hi I'm Thomas! `}<span className="wrap">{text}</span></h1>
+                                    <p>I am a web a passionate web developer interested in learning new skills and improving my current knowledge.</p>
+                                
                                 </div>
                             }
                         </TrackVisibility>

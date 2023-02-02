@@ -10,33 +10,18 @@ import TrackVisibility from "react-on-screen";
 export const Projects = () => {
     const projects = [
         {
-            title: "Business Startup",
-            description: "Design & Development",
+            title: "Doge XDC",
+            description: "Solidty,React,Javascript & Blockchain",
             imgUrl: projImg1,
         },
         {
-            title: "Business Startup",
-            description: "Design & Development",
+            title: "ODE",
+            description: "Open dynamics engine C++,XML,Git & ODE",
             imgUrl: projImg2,
         },
         {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg3,
-        },
-        {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg1,
-        },
-        {
-            title: "Business Startup",
-            description: "Design & Development",
-            imgUrl: projImg2,
-        },
-        {
-            title: "Business Startup",
-            description: "Design & Development",
+            title: "Sandwhich store",
+            description: "Web design,PHP,SQL,JQuery,CSS & HTML",
             imgUrl: projImg3,
         },
     ];
@@ -50,7 +35,7 @@ export const Projects = () => {
                             {({ isVisible }) =>
                                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                                     <h2>Projects</h2>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis similique ut nemo doloremque, ea maiores minima, deserunt, nulla nihil impedit omnis. Necessitatibus nisi ratione dicta, ipsum explicabo natus et quas.</p>
+                                    <p>Some examples of my work repositories.</p>
                                 </div>
                             }
                         </TrackVisibility>
@@ -58,13 +43,10 @@ export const Projects = () => {
                             <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                                 <Nav.Item>
                                     <Nav.Link eventKey="first">Tab One</Nav.Link>
-                                </Nav.Item>
-                                <Nav.Item>
-                                    <Nav.Link eventKey="second">Tab Two</Nav.Link>
-                                </Nav.Item>
-                                <Nav.Item>
-                                    <Nav.Link eventKey="third">Tab Three</Nav.Link>
-                                </Nav.Item>
+                                </Nav.Item>   
+<Nav.Item>
+                                    <Nav.Link eventKey="Coming_soon">Coming soon...</Nav.Link>
+                                </Nav.Item> 								
                             </Nav>
                             <Tab.Content>
                                 <Tab.Pane eventKey="first">
@@ -78,8 +60,9 @@ export const Projects = () => {
                                         }
                                     </Row>
                                 </Tab.Pane>
-                                <Tab.Pane eventKey="second">Lorem Ipsum</Tab.Pane>
-                                <Tab.Pane eventKey="third">Lorem Ipsum</Tab.Pane>
+								
+                                <Tab.Pane eventKey="Coming_soon">Future projects...</Tab.Pane>
+                             
                             </Tab.Content>
                         </Tab.Container>
                     </Col>
